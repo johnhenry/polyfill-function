@@ -33,7 +33,7 @@
 ```
 ### Usage Example
 ```html
-    <!--This particular example requires array#pushOff from the polyfill-array library-->
+    <!--This particular example requires the pushOff method from the polyfill-array library located here: https://github.com/johnhenry/polyfill-array -->
    <script src="./lib/polyfill-array.js" ></script>
    <script>
     var recursive2 = function(func,seeds___){
