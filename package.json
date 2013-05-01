@@ -1,0 +1,13 @@
+{
+  "name": "polyfill-function",
+  "version": "0.0.1",
+  "description": "Add useful functions to functions",
+  "keywords": ["polyfill","function","bind","call"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/polyfill-function",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/polyfill-function.git"
+  },
+  "main": "index"
+}
