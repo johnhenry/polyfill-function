@@ -1,6 +1,6 @@
 {
   "name": "polyfill-function",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Add useful functions to functions",
   "keywords": ["polyfill","function","bind","call"],
   "author": "John Henry <john@iamjohnhenry.com>",
